@@ -1,6 +1,6 @@
 build:
  id:2020202
  version:2000.2.300
- name:"Prod-GIT-build"
- type:"Production GIT build"
+ name:"dev-GIT-build"
+ type:"devlopment GIT build"
   
